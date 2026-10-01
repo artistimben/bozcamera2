@@ -1,0 +1,7 @@
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
+node_modules/
+/assets/WhatsApp Image 2026-09-28 at 00.12.47.jpeg

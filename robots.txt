@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://acboz.com.tr/sitemap.xml
